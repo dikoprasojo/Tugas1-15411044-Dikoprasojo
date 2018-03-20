@@ -1,0 +1,18 @@
+
+<html>
+<head>
+<title>Pemograman WEB</title>
+</head>
+<body>
+
+<h1 style="text-align:center">Biodata diri</h1> <br>
+	<h3 style="text-align:center">
+	 nama : Diko Prasojo <br>
+	 npm : 15411044 <br>
+	 jurusan?fak : sistem informasi?fik <br>
+	 ttl : bandar lampung, 25 agustus 1995 <br>
+	</h3>
+
+
+</body>
+</html>
